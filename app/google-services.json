@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "639737386521",
+    "firebase_url": "https://park-cb84f.firebaseio.com",
+    "project_id": "park-cb84f",
+    "storage_bucket": "park-cb84f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639737386521:android:70355715265b1ddb",
+        "android_client_info": {
+          "package_name": "com.example.hp.park"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639737386521-u6m5d75n4i59l7f0p1pfsdm63tpp1l1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.park",
+            "certificate_hash": "a43f4a86eb40be4fd28f73c436d18eb5489a02b0"
+          }
+        },
+        {
+          "client_id": "639737386521-on1k05gg8omb84vckn7eirctpvvnqcbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZkcMup8m5E9vg9BEfM7iVGBfv405kuiw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639737386521-on1k05gg8omb84vckn7eirctpvvnqcbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
