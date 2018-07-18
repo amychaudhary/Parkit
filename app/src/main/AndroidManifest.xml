@@ -25,11 +25,11 @@
         android:theme="@style/AppTheme">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBXltARx-ZGWq71njmQ_dUJQGrdq6gC0m8" />
+            android:value="" />
 
         <meta-data
             android:name="com.razorpay.ApiKey"
-            android:value="rzp_test_vPkoiXWiL6d1i9" />
+            android:value="" />
 
 
         <activity android:name=".UserLoginActivity">
